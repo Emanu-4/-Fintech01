@@ -1,0 +1,19 @@
+
+
+.mm-cor {
+    background-color: var(--bs-danger-bg-subtle);
+
+}
+.mmm-cor {
+    background-color: var(--bs-white);
+
+}
+
+.local {
+    width:5%;
+}
+
+#conteudo{
+    background-image: url(../imagens/pexels-olia-danilevich-5466785.jpg);
+    background-size:100% ;
+}
